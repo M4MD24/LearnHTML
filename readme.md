@@ -69,6 +69,8 @@
 
 ### 19. [<span style="color: #dd4b24;">Symbols</span>](src/_1_learn/_1_19_symbols)
 
+---
+
 ## <span style="color: #dd4b24;">Resources</span>
 
 ### <span style="color: #dd4b24;">Learning</span>
