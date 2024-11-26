@@ -73,7 +73,7 @@
 
 ## <span style="color: #dd4b24;">Resources</span>
 
-### <span style="color: #dd4b24;">Learning</span>
+### <span style="color: #dd4b24;">Learn</span>
 
 - <span style="color: #dd4b24;">Note: </span><u style="text-decoration-color: #dd4b24;">After learning from the sources, what was explained in the project is explained in my ways not copied mostly</u><span style="color: #dd4b24;">.</span>
 
