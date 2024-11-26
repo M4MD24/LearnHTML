@@ -39,11 +39,23 @@
 
 ### 4. [<span style="color: #dd4b24;">Formatting</span>](src/_1_learn/_1_4_formatting)
 
+1. Normal Formatting
+2. Important Formatting
+
 ### 5. [<span style="color: #dd4b24;">List</span>](src/_1_learn/_1_5_list)
+
+1. Ordered List
+2. Unordered List
+3. Description List
+4. Nested List
 
 ### 6. [<span style="color: #dd4b24;">Link</span>](src/_1_learn/_1_6_link)
 
 ### 7. [<span style="color: #dd4b24;">Media</span>](src/_1_learn/_1_7_media)
+
+1. Image
+2. Video
+3. Audio
 
 ### 8. [<span style="color: #dd4b24;">Table</span>](src/_1_learn/_1_8_table)
 
@@ -65,9 +77,21 @@
 
 ### 17. [<span style="color: #dd4b24;">Semantics</span>](src/_1_learn/_1_17_semantics)
 
+1. Semantic Element
+2. Non Semantic Element
+
 ### 18. [<span style="color: #dd4b24;">Entities</span>](src/_1_learn/_1_18_entities)
 
+1. Character Entities
+2. Combining Diacritical Marks
+
 ### 19. [<span style="color: #dd4b24;">Symbols</span>](src/_1_learn/_1_19_symbols)
+
+1. Arabic Letters
+2. Symbol Entities
+3. Mathematical Symbol
+4. Greek Letters
+5. Emojis
 
 ---
 
