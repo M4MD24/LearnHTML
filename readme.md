@@ -21,7 +21,7 @@
 
 ## <span style="font-style: italic; color: #dd4b24;">About the Project Details</span>
 
-- **Recommended using `WebStorm, Intellij IDEA (Community / Ultimate / EAP), Aqua`**
+- **Recommended using** `WebStorm, Intellij IDEA (Community / Ultimate / EAP), Aqua`
 - **Currently Used** `Aqua`
 - **HTML Version** `HTML5`
 
